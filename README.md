@@ -1,5 +1,5 @@
 # [Thiago Pinho Macedo Araujo]
-> Estudante de [Desenvolvimento de Sistemas]
+> Estudante de desenvolvimento de sistemas
  
 ---
  
@@ -11,7 +11,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [1º] período de [desenvolvimento de sistemas] na [unicid]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Automação de sistemas].
+Atualmente cursando o 1º período de desenvolvimento de sistemas na unicid. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Automação de sistemas].
  
 * **Habilidades Técnicas:** [ Html, Css, JavaScript, Python, Sql].
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
