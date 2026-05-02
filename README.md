@@ -44,7 +44,8 @@ Atualmente cursando o 1º período de desenvolvimento de sistemas na unicid. Sou
 #### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Projeto 01 - O Algoritmo de Auditoria de Dados** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./algoritmo-de-auditoria-de-dados/) |
+| **Projeto 01 - O Algoritmo de Auditoria de Dados** | Este projeto é um sistema de análise de vendas focado em detectar anomalias e garantir segurança financeira. Ele monitora os valores, identifica possíveis erros ou discrepâncias e aplica regras com base em limites definidos pelo usuário.
+. | [Ver Projeto](./algoritmo-de-auditoria-de-dados/) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
