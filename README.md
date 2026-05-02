@@ -1,4 +1,4 @@
-# [Thiago Pinho Macedo Araujo]
+# Thiago Pinho Macedo Araujo
 > Estudante de desenvolvimento de sistemas
  
 ---
