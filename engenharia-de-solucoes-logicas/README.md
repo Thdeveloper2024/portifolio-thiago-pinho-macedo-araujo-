@@ -42,6 +42,6 @@ O desenvolvimento do sistema proporcionou uma visão prática sobre a criação 
 **Resposta:** Com base nesse meu algoritmo a única entrada que seria necessário com urgência ser corrigido seria a entrada na pergunta onde o sistema faz ao profissional se ele tem algum risco de morte, e o profissional precisa responder sim/não, no caso preciso fazer um tratamento de erro caso seja digitado qualquer coisa que seja além disso, talvez um laço pedindo para que ele repita a pergunta e o profissional responda novamente.
 
 ---
-[Voltar ao início](#)
+[Voltar ao início](#-engenharia-de-solucoes-logicas)
 
 
