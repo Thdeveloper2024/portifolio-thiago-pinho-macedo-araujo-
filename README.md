@@ -72,16 +72,32 @@ Atualmente cursando o 1º período de desenvolvimento de sistemas na unicid. Sou
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização atual deste repositório para facilitar a navegação:
 
-#### 📁 Projetos
-
 .
 ├── README.md (Principal)
-├── .github/ (Opcional: para imagens e assets)
-├── modelagem-banco-dados-01/
-│   ├── script_criacao.sql
-│   ├── diagrama_er.png
-│   └── README.md (Específico do projeto)
-└── inteligencia-artificial-01/
-    ├── notebook_analise.ipynb
-    ├── dataset.csv
-    └── README.md (Específico do projeto)
+├── algoritmo-de-auditoria-de-dados/
+│   ├── sistema_auditoria.py
+│   └── README.md
+├── algoritmo-do-microclima-local/
+│   ├── algoritmo-do-microclima-local.py
+│   └── README.md
+├── desenhando-emojis-com-dados/
+│   ├── criador-matrizes-integrado.py
+│   └── README.md
+├── engenharia-de-contexto-e-logica-fisica/
+│   ├── algoritmo-do-microclima-local.py
+│   ├── navegacao-e-evacuacao-espacial.py
+│   └── README.md
+├── engenharia-de-solucoes-logicas/
+│   ├── 025a8a13-3c8a-4281-9aa5-0efcb8.... (arquivo de dados)
+│   ├── IMG_1644.pdf
+│   └── README.md
+├── modularizacao/
+│   ├── 42D18103-C05-4446-92A4-27E83.... (arquivo de dados)
+│   ├── IMG_1707.pdf
+│   └── README.md
+└── traduzindo-logica-para-python/
+    ├── analisar_clima.py
+    ├── processar_vendas.py
+    ├── simulador_poupanca.py
+    ├── sistema_notas_turma.py
+    └── README.md
