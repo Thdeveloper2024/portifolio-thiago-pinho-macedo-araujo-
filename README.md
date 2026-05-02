@@ -70,7 +70,16 @@ Atualmente cursando o 1º período de desenvolvimento de sistemas na unicid. Sou
 ---
  
 ### 🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
- 
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+Abaixo, a organização atual deste repositório para facilitar a navegação:
+
+- `README.md`: Arquivo principal com a visão geral dos projetos.
+
+#### 📁 Projetos
+
+- `/algoritmo-de-auditoria-de-dados/`: Projeto voltado à análise e auditoria de dados.
+- `/algoritmo-do-microclima-local/`: Sistema de avaliação de condições climáticas locais.
+- `/desenhando-emojis-com-dados/`: Manipulação de matrizes para criação de imagens (emojis).
+- `/engenharia-de-contexto-e-logica-fisica/`: Aplicações de lógica em cenários físicos e contextuais.
+- `/engenharia-de-solucoes-logicas/`: Desenvolvimento de soluções baseadas em raciocínio lógico.
+- `/modularizacao/`: Estruturação e organização de código em módulos reutilizáveis.
+- `/traduzindo-logica-para-python/`: Conversão de lógica algorítmica para implementação em Python.
