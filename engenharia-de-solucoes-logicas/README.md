@@ -27,5 +27,21 @@ O desenvolvimento do sistema proporcionou uma visão prática sobre a criação 
 2. Utilize o pseudocódigo como base para implementação em linguagem de programação.
 3. Adapte conforme necessidade do ambiente de aplicação.
 
+------------------------------------------------------------------------
+
+## 📋 Questões e respostas
+
+# Parte 1: Investigação e Descoberta (Antes do Código)
+
+**Questão 01** Qual foi o maior desafio logístico encontrado ao tentar traduzir o problema do mundo real para uma estrutura de decisão binária (se/senão)
+
+**Resposta:** O maior desafio foi conseguir transmitir ao sistema a ordem de preferência, e qual paciente tem que ser atendido pela ordem de prioridade.
+
+**Questão 02** Com base no Teste de Mesa (Cenário C), qual modificação seria necessária para tornar seu algoritmo mais resiliente a falhas humanas ou de sensores?
+
+**Resposta:** Com base nesse meu algoritmo a única entrada que seria necessário com urgência ser corrigido seria a entrada na pergunta onde o sistema faz ao profissional se ele tem algum risco de morte, e o profissional precisa responder sim/não, no caso preciso fazer um tratamento de erro caso seja digitado qualquer coisa que seja além disso, talvez um laço pedindo para que ele repita a pergunta e o profissional responda novamente.
+
 ---
 [Voltar ao início](#)
+
+
