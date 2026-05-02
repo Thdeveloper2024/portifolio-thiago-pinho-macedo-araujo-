@@ -67,6 +67,8 @@ Simular tomadas de decisão em tempo real com base em recursos limitados e condi
 - Implementação de inteligência artificial para decisões mais complexas
 - Expansão do simulador com múltiplos agentes
 
+--- 
+
 ## Parte 3: 💭 Reflexão Crítica (Além do Código)
 
 Eu realizei o mapeamento do bloco C laboratório 13, e percebi que não seria só pegar e sair diretamente, pois em caso de incêndio ou desabamento teria muitos empecilhos, e pensado nisso eu montei também alguns empecilhos para o computador trafegar.
