@@ -41,7 +41,7 @@ Atualmente cursando o 1º período de desenvolvimento de sistemas na unicid. Sou
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
+#### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Projeto - Traduzindo Lógica para Python** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./traduzindo-logica-para-python/) |
