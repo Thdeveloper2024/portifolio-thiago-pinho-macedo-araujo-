@@ -30,7 +30,7 @@ O projeto demonstrou eficiência na análise de múltiplos fatores ambientais, s
  
 ---
 [Voltar ao início](https://github.com/seu-usuario/seu-usuario)
-"""
+
 
 path = Path('/mnt/data/README_microclima.md')
 path.write_text(content, encoding='utf-8')
