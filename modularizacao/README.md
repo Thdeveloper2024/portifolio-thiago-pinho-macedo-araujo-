@@ -20,12 +20,12 @@ linguagem de programação.
 
 ![Fluxogramas do Sistema](42D18103-CC05-4446-92A4-27E83CB5E79F.pdf)
 
-*Figura 1: Fluxogramas das funções do sistema (Total da Compra, Valor
+**Figura 1:** Fluxogramas das funções do sistema (Total da Compra, Valor
 Pago, Troco e Notas).*
 
 ![Pseudocódigo do Sistema](IMG_1707.pdf)
 
-*Figura 2: Pseudocódigo utilizado no desenvolvimento do sistema.*
+**Figura 2:** Pseudocódigo utilizado no desenvolvimento do sistema.*
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -52,4 +52,4 @@ funções e organização lógica.
 
 ------------------------------------------------------------------------
 
-[Voltar ao início](https://github.com/seu-usuario/seu-usuario)
+[Voltar ao início](#-modularizacao)
