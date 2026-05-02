@@ -1,6 +1,4 @@
-from pathlib import Path
-
-content = """# 🧾 Sistema de Processamento de Vendas e Análise Climática
+# 🧾 Sistema de Processamento de Vendas e Análise Climática
 
 ## 📝 Descrição do Projeto
 
