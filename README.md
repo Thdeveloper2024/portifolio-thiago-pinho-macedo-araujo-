@@ -72,14 +72,16 @@ Atualmente cursando o 1º período de desenvolvimento de sistemas na unicid. Sou
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização atual deste repositório para facilitar a navegação:
 
-- `README.md`: Arquivo principal com a visão geral dos projetos.
-
 #### 📁 Projetos
 
-- `/algoritmo-de-auditoria-de-dados/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-- `/algoritmo-do-microclima-local/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-- `/desenhando-emojis-com-dados/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-- `/engenharia-de-contexto-e-logica-fisica/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-- `/engenharia-de-solucoes-logicas/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-- `/modularizacao/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-- `/traduzindo-logica-para-python/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+.
+├── README.md (Principal)
+├── .github/ (Opcional: para imagens e assets)
+├── modelagem-banco-dados-01/
+│   ├── script_criacao.sql
+│   ├── diagrama_er.png
+│   └── README.md (Específico do projeto)
+└── inteligencia-artificial-01/
+    ├── notebook_analise.ipynb
+    ├── dataset.csv
+    └── README.md (Específico do projeto)
