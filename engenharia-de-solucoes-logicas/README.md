@@ -1,74 +1,31 @@
-# 🛡️ Sistema de Monitoramento de Vendas
+# 🏥 Sistema de Triagem Automatizada (SUS)
 
 ## 📝 Descrição do Projeto
+Este projeto consiste em um sistema de triagem automatizada desenvolvido para otimizar o atendimento no Sistema Único de Saúde (SUS). O objetivo é classificar pacientes com base em sintomas e sinais informados, priorizando casos mais urgentes e organizando o fluxo de atendimento médico.
 
-Este projeto consiste em um sistema de análise de vendas com foco em
-detecção de anomalias e segurança financeira. O objetivo principal é
-monitorar valores de vendas, identificar discrepâncias e aplicar regras
-de validação baseadas em limites definidos pelo usuário.
+O sistema foi modelado inicialmente por meio de um fluxograma estruturado, seguido da implementação de um pseudocódigo que representa a lógica de decisão aplicada durante a triagem. A abordagem permite padronizar o atendimento inicial e reduzir o tempo de espera em unidades de saúde.
 
-Desenvolvido como prática de lógica de programação, o sistema realiza
-cálculos automáticos, verifica padrões suspeitos e permite ajustes
-dinâmicos no limite de segurança, garantindo maior controle sobre os
-dados inseridos.
+![Fluxograma do Sistema](025a8a13-3c8a-4281-9aa5-0efcb8b8bf89.pdf)
+*Figura 1: Fluxograma do sistema de triagem automatizada.*
 
-http://googleusercontent.com/image_generation_content/0 *Figura 1:
-Execução do sistema exibindo análise de vendas e alertas de segurança.*
+![Pseudocódigo](IMG_1644.pdf)
+*Figura 2: Pseudocódigo representando a lógica de decisão do sistema.*
 
 ## 🚀 Tecnologias Utilizadas
-
--   **Linguagem:** Python 3.x
--   **Paradigma:** Programação estruturada
--   **Execução:** Terminal / Console
+* **Modelagem:** Fluxograma
+* **Lógica:** Pseudocódigo estruturado
+* **Aplicação:** Sistema de triagem em saúde pública
 
 ## 📊 Resultados e Aprendizados
-
-O projeto demonstrou a importância da validação de dados e análise de
-padrões em sistemas simples: \* **Detecção de discrepâncias:**
-Identificação de valores muito acima da média. \* **Controle dinâmico:**
-Ajuste do limite de segurança em tempo de execução. \* **Validação de
-entradas:** Prevenção de decisões com base em dados inconsistentes.
+O desenvolvimento do sistema proporcionou uma visão prática sobre a criação de algoritmos voltados para problemas reais na área da saúde.
+* **Organização de Fluxo:** Estruturação eficiente do atendimento.
+* **Tomada de Decisão:** Aplicação de lógica condicional para classificação de pacientes.
+* **Padronização:** Redução de inconsistências no processo de triagem.
 
 ## 🔧 Como Executar
+1. Analise o fluxograma para entendimento da lógica geral.
+2. Utilize o pseudocódigo como base para implementação em linguagem de programação.
+3. Adapte conforme necessidade do ambiente de aplicação.
 
-1.  Clone o repositório.
-2.  Certifique-se de ter o Python instalado.
-3.  Execute o comando: `python main.py`.
-4.  Insira os valores das vendas conforme solicitado no terminal.
-
-------------------------------------------------------------------------
-
-## 📋 Questões e respostas
-
-# Parte 1: Investigação e Descoberta (Antes do Código)
-
-**Questão 01** O que é Discrepância de Dados (Outliers): Como um único valor muito alto ou muito baixo pode "mentir" sobre a média de um grupo?
-
-**Resposta:** São valores que fogem muito do padrão de um conjunto de dados sendo muito maiores ou menores que os outros, a média é calculada somando tudo e dividindo pela quantidade, o problema é que um valor extremo pode puxar a média muito para cima ou muito para baixo.
-
-**Questão 02** Por que em análise de dados muitas vezes ignoramos os valores extremos (o maior e o menor) para obter um resultado mais fiel?
-
-**Resposta:** É um jeito de ajustar ou tratar os dados para que eles representem melhor a realidade, sem puxar o resultado par longe do comum.
-
-**Questão 03** Lógica de Negócio: Pesquise o que é uma "Margem de Tolerância" em auditorias financeiras.
-
-**Resposta:** É um limite aceitável de erro ou diferença em dados financeiros sem que isso seja considerado um problema relevante.
-
-# Parte 3: Análise de Compreensão e Metacognição
-
-**Questão 01** O Teste de Estresse (Análise): Realize um Teste de Mesa manual com os valores: Venda 1 = 100, Venda 2 = 200, Venda 3 = 5000. O que aconteceu com a média? O seu código tomou a decisão que você esperava? Se não, qual linha de lógica você precisou alterar?
-
-**Resposta:** A média ficou muito alta no valor de 1766,67. Sim, na média simples ficou correto matematicamente, mais se for seguir no padrão das venda não ficou. precisei ignorar o valor da venda 3 e fazer a média com o valor da venda 1 e 2 para obter um resultado mais realista.
-
-**Questão 02** Aplicação Real: Se este código fosse usado em um banco real, qual o perigo de usar uma variável global para o limite de segurança em vez de uma variável protegida?
-
-**Resposta:** Por que na variável global ela pode ser acessada e alterada por qualquer parte do sistema, já na variável protegida nem todo mundo pode alterar.
-
-**Questão 03** A Experiência Individual: "Descreva o erro de indentação ou de digitação (SyntaxError/NameError) mais frustrante que você cometeu durante a elaboração deste código específico. Como a sua intuição te ajudou a encontrar o erro antes mesmo de ler a mensagem de erro do Python? Explique a diferença entre o que você achava que o computador estava lendo e o que ele realmente estava lendo naquela linha."
-
-**Resposta:** Ter criado ( print(venda_total) ) sem nunca ter criado essa variável. A intuição me ajudou a ver que não tinha determinado a venda total, o que eu achava " venda_total deve ser o valor das vendas" o que ele estava lendo "essa variável não existe".
-
-------------------------------------------------------------------------
-
-
-[Voltar ao início](#-sistema-de-monitoramento-de-vendas)
+---
+[Voltar ao início](#)
