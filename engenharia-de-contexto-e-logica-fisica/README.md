@@ -77,4 +77,4 @@ Me fez refletir que aprender a programar não é apenas pedir para a inteligênc
 
 ---
 
-[Voltar ao início](#)
+[Voltar ao início](#-engenharia-de-contexto-e-logica-fisica)
