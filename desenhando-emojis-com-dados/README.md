@@ -87,4 +87,4 @@ O projeto permitiu consolidar conhecimentos importantes:
 
 ---
 
-[Voltar ao início](#)
+[Voltar ao início](#-desenhando-emojis-com-dados)
