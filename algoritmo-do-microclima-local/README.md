@@ -1,6 +1,4 @@
-from pathlib import Path
-
-content = """# 🌍 Sistema de Análise de Microclima
+# 🌍 Sistema de Análise de Microclima
  
 ## 📝 Descrição do Projeto
 Este projeto consiste em um sistema de análise de microclima desenvolvido em Python, que avalia diferentes locais com base em três fatores principais: temperatura, qualidade do ar e umidade.
