@@ -12,9 +12,6 @@ cálculos automáticos, verifica padrões suspeitos e permite ajustes
 dinâmicos no limite de segurança, garantindo maior controle sobre os
 dados inseridos.
 
-http://googleusercontent.com/image_generation_content/0 *Figura 1:
-Execução do sistema exibindo análise de vendas e alertas de segurança.*
-
 ## 🚀 Tecnologias Utilizadas
 
 -   **Linguagem:** Python 3.x
