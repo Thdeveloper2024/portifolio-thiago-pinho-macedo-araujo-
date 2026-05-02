@@ -76,10 +76,10 @@ Abaixo, a organização atual deste repositório para facilitar a navegação:
 
 #### 📁 Projetos
 
-- `/algoritmo-de-auditoria-de-dados/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico - Projeto voltado à análise e auditoria de dados.
-- `/algoritmo-do-microclima-local/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico - Sistema de avaliação de condições climáticas locais.
-- `/desenhando-emojis-com-dados/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico - Manipulação de matrizes para criação de imagens (emojis).
-- `/engenharia-de-contexto-e-logica-fisica/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico - Aplicações de lógica em cenários físicos e contextuais.
-- `/engenharia-de-solucoes-logicas/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico - Desenvolvimento de soluções baseadas em raciocínio lógico.
-- `/modularizacao/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico - Estruturação e organização de código em módulos reutilizáveis.
-- `/traduzindo-logica-para-python/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico - Conversão de lógica algorítmica para implementação em Python.
+- `/algoritmo-de-auditoria-de-dados/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+- `/algoritmo-do-microclima-local/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+- `/desenhando-emojis-com-dados/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+- `/engenharia-de-contexto-e-logica-fisica/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+- `/engenharia-de-solucoes-logicas/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+- `/modularizacao/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+- `/traduzindo-logica-para-python/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
