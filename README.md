@@ -42,15 +42,35 @@ Atualmente cursando o 1º período de desenvolvimento de sistemas na unicid. Sou
 ### 📂 Portfólio de Projetos
  
 #### 🗃️ Programação de Computadores
-| Projeto 01 | Descrição | Link |
+| Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **O Algoritmo de Auditoria de Dados** | Este projeto é um sistema de análise de vendas focado em detectar anomalias e garantir segurança financeira. Ele monitora os valores, identifica possíveis erros ou discrepâncias e aplica regras com base em limites definidos pelo usuário.
+| **Projeto 01 - O Algoritmo de Auditoria de Dados** | Este projeto é um sistema de análise de vendas focado em detectar anomalias e garantir segurança financeira. Ele monitora os valores, identifica possíveis erros ou discrepâncias e aplica regras com base em limites definidos pelo usuário.
 | [Ver Projeto](./algoritmo-de-auditoria-de-dados/) |
 
-| Projeto 02 | Descrição | Link |
+| Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Engenharia de Soluções Lógicas** | Este projeto consiste em um sistema de triagem automatizada desenvolvido para otimizar o atendimento no Sistema Único de Saúde (SUS). O objetivo é classificar pacientes com base em sintomas e sinais informados, priorizando casos mais urgentes e organizando o fluxo de atendimento médico.
+| **Projeto 02 - Engenharia de Soluções Lógicas** | Este projeto consiste em um sistema de triagem automatizada desenvolvido para otimizar o atendimento no Sistema Único de Saúde (SUS). O objetivo é classificar pacientes com base em sintomas e sinais informados, priorizando casos mais urgentes e organizando o fluxo de atendimento médico.
 | [Ver Projeto](./engenharia-de-solucoes-logicas/) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Projeto 03 - Modularização** | Este projeto consiste em um sistema desenvolvido em pseudocódigo para realizar o cálculo de compras e gerenciamento de troco em um processo de pagamento.
+| [Ver Projeto](./modularizacao/) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Projeto 04 - Traduzindo Lógica para Python** | Este projeto consiste em um conjunto de sistemas desenvolvidos em Python com foco em lógica de programação, entrada de dados e tomada de decisão. Ele reúne diferentes funcionalidades práticas que simulam situações do dia a dia, como controle de vendas, análise climática, gestão de notas escolares e simulação de investimentos.
+| [Ver Projeto](./traduzindo-lógica-para-python/) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Projeto 05 - Engenharia de Soluções Lógicas** | Este projeto reúne dois módulos **[Análise de Microclima, Simulação de Saída de Fuga]** distintos que simulam cenários reais utilizando lógica computacional e tomada de decisão automatizada.
+| [Ver Projeto](./engenharia-de-contexto-e-logica-fisica/) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Projeto 06 - Desenhando Emojis com Dados** | Este projeto reúne diferentes desafios práticos voltados à manipulação de dados estruturados, explorando conceitos fundamentais de programação como matrizes, dicionários e transformação de dados.
+| [Ver Projeto](./desenhando-emojis-com-dados/) |
  
  
 ---
