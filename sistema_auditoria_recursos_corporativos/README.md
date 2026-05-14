@@ -28,11 +28,11 @@ Este projeto foi construído utilizando Python puro (Standard Library), com foco
 ### Passo a Passo
 1. Clone este repositório:
    ```bash
-   git clone (https://github.com/Thdeveloper2024/portfolio-thiago-pinho-macedo-araujo)
+   git clone https://github.com/Thdeveloper2024/portfolio-thiago-pinho-macedo-araujo.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd traduzindo-lógica-para-python
+   cd portfolio-thiago-pinho-macedo-araujo/sistema_auditoria_recursos_corporativos
    ```
 3. Execute o script principal:
    ```bash
