@@ -45,7 +45,7 @@ Breve explicação de como o código foi organizado:
 
 O sistema trabalha com uma estrutura de dados organizada em dicionários, representando os setores da empresa, como Tecnologia, RH, Financeiro e Comercial. Dentro de cada departamento existem subdivisões e valores de orçamento, permitindo uma organização mais próxima de um ambiente empresarial real.
 
-Durante o desenvolvimento do código, foram utilizados conceitos importantes da programação, como funções, recursividade, decorators, parâmetros especiais (*args e **kwargs) e manipulação de estruturas de dados. A função principal percorre automaticamente todos os departamentos da empresa para realizar o cálculo total do orçamento, inclusive acessando setores internos de forma recursiva.
+Durante o desenvolvimento do código, foram utilizados conceitos importantes da programação, como funções, recursividade, decorators, parâmetros especiais (**args** e **kwargs**) e manipulação de estruturas de dados. A função principal percorre automaticamente todos os departamentos da empresa para realizar o cálculo total do orçamento, inclusive acessando setores internos de forma recursiva.
 
 Além disso, o programa também permite ignorar determinados departamentos durante o cálculo financeiro, simulando análises estratégicas de custos. Outro recurso implementado foi a conversão monetária, permitindo visualizar o orçamento em outra moeda utilizando taxa de câmbio.
 
