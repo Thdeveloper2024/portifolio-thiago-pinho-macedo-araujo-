@@ -54,7 +54,7 @@ O objetivo principal do projeto foi praticar lógica de programação e organiza
 * **Dados:** Os dados utilizados no programa representam a estrutura organizacional e financeira de uma empresa nacional fictícia localizada em São Paulo. Essas informações foram organizadas utilizando dicionários em Python, permitindo separar cada setor da empresa de maneira hierárquica e organizada.
 ## 👤 Autor
  
-* **Thiago Pinho Macedo Araujo** LinkedIn: linkedin.com/in/thiago-macedo-094695362
+* **Thiago Pinho Macedo Araujo** LinkedIn: https://www.linkedin.com/in/thiago-macedo-094695362
 * E-mail: thiagomacedo1213@gmail.com
  
 ---
