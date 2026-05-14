@@ -50,6 +50,7 @@ Atualmente cursando o 1º período de desenvolvimento de sistemas na unicid. Sou
 | **Projeto 04 - Traduzindo Lógica para Python** | Este projeto consiste em um conjunto de sistemas desenvolvidos em Python com foco em lógica de programação, entrada de dados e tomada de decisão. Ele reúne diferentes funcionalidades práticas que simulam situações do dia a dia, como controle de vendas, análise climática, gestão de notas escolares e simulação de investimentos. | [Ver Projeto](./traduzindo-lógica-para-python/) |
 | **Projeto 05 - Engenharia de Soluções Lógicas** | Este projeto reúne dois módulos **[Análise de Microclima, Simulação de Saída de Fuga]** distintos que simulam cenários reais utilizando lógica computacional e tomada de decisão automatizada. | [Ver Projeto](./engenharia-de-contexto-e-logica-fisica/) |
 | **Projeto 06 - Desenhando Emojis com Dados** | Este projeto reúne diferentes desafios práticos voltados à manipulação de dados estruturados, explorando conceitos fundamentais de programação como matrizes, dicionários e transformação de dados. | [Ver Projeto](./desenhando-emojis-com-dados/) |
+| **Projeto 07 - Sistema de Auditoria de Recursos Corporativos** | Este projeto é um sistema que monitora e controla os recursos financeiros e organizacionais de uma empresa. Ele analisa departamentos, soma orçamentos, identifica informações importantes e ajuda na gestão e segurança dos dados. | [Ver Projeto](./sistema_auditoria_recursos_corporativos) |
  
  
 ---
