@@ -11,11 +11,13 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 1º período de desenvolvimento de sistemas na unicid. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Automação de sistemas].
+Atualmente cursando o 1º período de Desenvolvimento de Sistemas na UNICID. Tenho interesse em tecnologia, automação de tarefas e desenvolvimento de soluções que facilitem o dia a dia.
+Já desenvolvi projetos pessoais utilizando Inteligência Artificial e participei de projetos acadêmicos em equipe, buscando sempre aprender novas tecnologias e aprimorar minhas habilidades.
+Atualmente, meu foco está em Desenvolvimento Front-en e Automação de Sistemas.
  
-* **Habilidades Técnicas:** [ Html, Css, JavaScript, Python, Sql].
+* **Habilidades Técnicas:** Html, Css, JavaScript, Python, Sql.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de sistema de gestão financeira/Projeto pessoal] onde desenvolvi [Desenvolvi utilizando Google Studio].
+* **Experiência/Projetos Relevantes:** Atuei em Projeto de sistema de gestão financeira/Projeto pessoal onde desenvolvi. Desenvolvi utilizando Google Studio.
  
 ---
  
