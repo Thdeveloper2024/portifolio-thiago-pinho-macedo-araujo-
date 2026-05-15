@@ -11,9 +11,18 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 1º período de Desenvolvimento de Sistemas na UNICID. Tenho interesse em tecnologia, automação de tarefas e desenvolvimento de soluções que facilitem o dia a dia.
-Já desenvolvi projetos pessoais utilizando Inteligência Artificial e participei de projetos acadêmicos em equipe, buscando sempre aprender novas tecnologias e aprimorar minhas habilidades.
-Atualmente, meu foco está em Desenvolvimento Front-en e Automação de Sistemas.
+Meu nome é Thiago Pinho Macedo Araujo, tenho 18 anos e sou estudante de Desenvolvimento de Sistemas na UNICID, em São Paulo. Minha trajetória na programação começou por volta dos 16 anos, quando despertei um grande interesse por tecnologia, automação e desenvolvimento de soluções inteligentes. Desde então, venho buscando constantemente conhecimento através da internet, cursos, pesquisas e muita prática, sempre procurando evoluir minhas habilidades técnicas e ampliar minha visão sobre o universo da tecnologia.
+
+No início da minha jornada, comecei desenvolvendo pequenos projetos para entender melhor a lógica de programação e o funcionamento das linguagens e ferramentas utilizadas no desenvolvimento de software. Com o passar do tempo, fui adquirindo experiência prática e criando projetos cada vez mais completos, tanto individuais quanto em grupo, principalmente durante minhas atividades acadêmicas na universidade. Sempre gostei de transformar ideias em soluções funcionais, principalmente aquelas que conseguem automatizar tarefas, otimizar processos e facilitar o dia a dia das pessoas.
+
+Tenho facilidade para resolver problemas e gosto de enfrentar desafios que exigem raciocínio lógico, criatividade e análise estratégica. Essa característica me ajudou bastante no desenvolvimento de projetos voltados para automação, sistemas inteligentes e aplicações com foco em produtividade. Ao longo da minha evolução, comecei também a explorar ferramentas de Inteligência Artificial e desenvolvimento moderno, utilizando plataformas como Google AI Studio, Claude, ChatGPT, Vercel e outras tecnologias voltadas para inovação e criação de soluções inteligentes.
+
+Atualmente, possuo conhecimentos em linguagens e tecnologias como Python, HTML, CSS, JavaScript, SQL e Firebase. Tenho interesse especial em automação de tarefas, desenvolvimento web, análise de dados e Inteligência Artificial aplicada a sistemas. Gosto de estudar novas tecnologias, testar ferramentas modernas e aprender continuamente, porque acredito que a tecnologia está em constante evolução e que sempre existe algo novo para descobrir e aprimorar.
+
+Durante meus projetos, desenvolvi habilidades importantes como trabalho em equipe, comunicação, organização, pensamento crítico e capacidade de adaptação. Na universidade, participei de projetos colaborativos que exigiram planejamento, divisão de tarefas e desenvolvimento conjunto de soluções, o que fortaleceu ainda mais minha experiência prática e minha capacidade de trabalhar em ambientes dinâmicos.
+
+Além da parte técnica, também valorizo muito a criatividade no desenvolvimento de projetos. Gosto de criar sistemas modernos, funcionais e bem estruturados, sempre buscando unir desempenho, praticidade e uma boa experiência para o usuário. Meu objetivo é continuar evoluindo profissionalmente, adquirir novas experiências na área da tecnologia e contribuir com soluções inovadoras que possam gerar impacto positivo através da programação e da automação.
+
  
 * **Habilidades Técnicas:** Html, Css, JavaScript, Python, Sql.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
